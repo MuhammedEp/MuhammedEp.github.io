@@ -24,11 +24,6 @@
 
       @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
     
-    
-      body , html {
-        font-family: "Open Sans";
-      }
-    
 
 /* Our remix on glitch button */
 .btn--remix {
@@ -76,6 +71,7 @@ END Glitch hello-app default styles
 body {
   color: white;
   background-color: rgb(29,30,30);
+  font-family: "Open Sans";
 }
 html,body {
   margin: 0;
